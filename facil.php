@@ -96,12 +96,12 @@
     <div class="contenedor-opciones">
 
         <!-- VIDEO -->
-        <button class="opcion-btn" onclick="window.location.href='VIDEOFACIL.php'">
+        <button class="opcion-btn" onclick="window.location.href='videofacil.php'">
             VIDEO
         </button>
 
         <!-- LECTURA -->
-        <button class="opcion-btn" onclick="window.location.href='LECTURAFACIL.php'">
+        <button class="opcion-btn" onclick="window.location.href='lecturafacil.php'">
             LECTURA
         </button>
 
